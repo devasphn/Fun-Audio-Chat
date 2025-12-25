@@ -273,7 +273,6 @@ This project is based on the following excellent open-source projects:
 
 ---
 
-
 ## Citation
 
 If you find this model useful, please cite our paper:
@@ -315,9 +314,12 @@ For license details, see the [LICENSE](LICENSE) file.
 
 If you have any questions or suggestions, please contact us through:
 
-- 🐛 Submit an Issue
+- 🐛 Submit an [Issue](https://github.com/FunAudioLLM/Fun-Audio-Chat/issues)
 - 💡 Submit a Pull Request
 - 📧 Send an Email
+- 💬 Join official Dingding chat group
+
+<img src="assets/dingding.png" width="250px">
 
 ---
 

@@ -314,9 +314,12 @@ Fun-Audio-Chat 是由阿里云开发的用于自然语音交互的大型音频�
 
 如有任何问题或建议，请通过以下方式联系我们：
 
-- 🐛 提交 Issue
+- 🐛 提交 [Issue](https://github.com/FunAudioLLM/Fun-Audio-Chat/issues)
 - 💡 提交 Pull Request
 - 📧 发送邮件
+- 💬 加入官方钉钉交流群
+
+<img src="assets/dingding.png" width="250px">
 
 ---
 
